@@ -7,6 +7,33 @@ Esta aplicación móvil fue desarrollada utilizando Flutter y tiene como objetiv
 Además, se implementó interactividad mediante un sistema de favoritos utilizando Stateful Widgets, permitiendo que los usuarios marquen o desmarquen sitios turísticos como favoritos.
 
 ---
+## 📸 Capturas de pantalla
+
+
+
+
+<p align="center">[LA APLICACION MOVIL CON EL ICON Y EL SPLASH SCREEN]</p>
+
+
+
+<p align="center">
+
+
+  <img width="45%" height="1600" alt="ejemplo_layout_1" src="https://github.com/user-attachments/assets/75dc6d89-dbf4-4e71-ae82-bfea995a5e33" />
+  <img width="45%" height="1600" alt="ejemplo_layout_2" src="https://github.com/user-attachments/assets/93cce5ab-2ed0-416e-bf91-a37420437a9a" />
+
+
+</p>
+
+
+<p align="center">
+  <a href="https://github.com/user-attachments/assets/7c7064d5-8a6f-4a94-b229-00ad06c91241">
+    Ver demo
+  </a>
+</p>
+
+
+---
 
 # Objetivos
 
