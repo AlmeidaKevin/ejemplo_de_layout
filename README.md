@@ -18,9 +18,9 @@ Además, se implementó interactividad mediante un sistema de favoritos utilizan
 
 <p align="center">
 
-
-  <img width="45%" height="1600" alt="ejemplo_layout_1" src="https://github.com/user-attachments/assets/75dc6d89-dbf4-4e71-ae82-bfea995a5e33" />
   <img width="45%" height="1600" alt="ejemplo_layout_2" src="https://github.com/user-attachments/assets/93cce5ab-2ed0-416e-bf91-a37420437a9a" />
+  <img width="45%" height="1600" alt="ejemplo_layout_1" src="https://github.com/user-attachments/assets/75dc6d89-dbf4-4e71-ae82-bfea995a5e33" />
+  
 
 
 </p>
