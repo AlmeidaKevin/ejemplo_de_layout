@@ -12,7 +12,7 @@ Además, se implementó interactividad mediante un sistema de favoritos utilizan
 
 
 
-<p align="center">[LA APLICACION MOVIL CON EL ICON Y EL SPLASH SCREEN]</p>
+<p align="center">[LA APLICACION MOVIL]</p>
 
 
 
