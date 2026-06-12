@@ -25,6 +25,11 @@ Además, se implementó interactividad mediante un sistema de favoritos utilizan
 
 </p>
 
+<div align="center">
+
+https://github.com/user-attachments/assets/7c7064d5-8a6f-4a94-b229-00ad06c91241
+
+</div>
 
 <p align="center">
   <a href="https://github.com/user-attachments/assets/7c7064d5-8a6f-4a94-b229-00ad06c91241">
