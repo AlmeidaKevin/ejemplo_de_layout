@@ -263,16 +263,20 @@ class ButtonSection extends StatelessWidget {
     required this.mapUrl,
   });
 
+
   Future<void> openMap() async {
     final Uri uri = Uri.parse(mapUrl);
-
-    if (await canLaunchUrl(uri)) {
+  
+    try {
       await launchUrl(
         uri,
         mode: LaunchMode.externalApplication,
       );
+    } catch (e) {
+      debugPrint("No se pudo abrir: $e");
     }
-  }
+  }  
+
 
   @override
   Widget build(BuildContext context) {
